@@ -1,4 +1,4 @@
-# 🌌 Sistema Solar - Projeto de Carousel
+# 🌌 Sistema Solar - Projeto de Carrosel
 
 ## 📋 Descrição
 Projeto interativo que apresenta os planetas do Sistema Solar através de um carousel responsivo desenvolvido com HTML, CSS e Bootstrap. Cada slide contém informações científicas e um link para a página oficial da NASA.
